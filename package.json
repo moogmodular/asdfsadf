@@ -1,0 +1,29 @@
+{
+  "name": "many-lexical-autofocus",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@lexical/markdown": "0.4.1",
+    "@lexical/react": "0.4.1",
+    "lexical": "0.4.1",
+    "lodash.debounce": "4.0.8",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-scripts": "4.0.3"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
